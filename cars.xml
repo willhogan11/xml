@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<carslist>
+    
+    <car id="1" driveside="Left">
+      <dealer>Cars&amp;Co</dealer>
+      <registration>152-G-123</registration>
+      <make>Ford</make>
+      <model>Fiesta</model>
+      <colour>Red</colour> 
+      <doors>
+        <door>Driver</door>
+        <door>Right passenger</door>
+        <door>Left rear door</door>
+        <door>Right rear door</door>
+      </doors>
+    </car>
+    
+    <car id="2" driveside="Right">
+      <dealer>Steve&apos;s Cars</dealer>
+      <registration>151-CN-321</registration>
+      <make>Volvo</make>
+      <model>XC90</model>
+      <colour>Blue</colour>
+      <doors>
+        <door>Driver</door>
+        <door>Right passenger</door>
+        <door>Left rear door</door>
+        <door>Right rear door</door>
+      </doors>
+    </car>
+    
+    <car id="3" driveside="Left">
+      <dealer>No Dealer</dealer>
+      <registration>07-TS-127</registration>
+      <make>Toyota</make>
+      <model>Yaris</model>
+      <colour>Grey</colour>
+      <doors>
+        <door>Driver</door>
+        <door>Right passenger</door>
+        <door>Boot</door>
+      </doors>
+    </car>
+    
+</carslist>
